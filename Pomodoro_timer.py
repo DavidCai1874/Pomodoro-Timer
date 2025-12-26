@@ -77,7 +77,7 @@ class PomodoroTimer:
     def start_timer(self):
         if not self.running:
             self.running = True
-            self.start_button.pack_forget()
+            self.start_button.pack_forget() # hide button
             self.countdown(25 * 60)  # length of each round
             self.root.attributes("-topmost", False)
 
