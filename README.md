@@ -32,4 +32,6 @@ A Pomodoro Timer Program
 
 ## Demo Video (YouTube)
 
+Note: This demo only shows the English version timer now. The extra .exe file on the desktop is a legacy artifact and can be ignored.
+
 [![Watch on YouTube](https://img.youtube.com/vi/vfVE9N-U1Ss/0.jpg)](https://www.youtube.com/watch?v=vfVE9N-U1Ss)  
